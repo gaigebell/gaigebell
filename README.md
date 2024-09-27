@@ -18,6 +18,7 @@ This is BELL, currently a student of Sun Yat-sen University in China.
 - ⚡ Fun fact:
     * CSDN blog https://blog.csdn.net/bell041030 (I will try to write in English from now on...lol)
     * personal website http://bell.s.cn.vc/ ,there uploads my first game, a Windows application exactly.
+    * A new blog also a new personal website https://gaigebell.github.io/collection/ with contents of CPC and other things
 
 <!--
 **gaigebell/gaigebell** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
