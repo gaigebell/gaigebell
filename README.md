@@ -2,8 +2,8 @@
 
 This is BELL, currently a student of Sun Yat-sen University in China.
 #### Know more about me:
-- 🔭 I’m currently working on **CPC(Collegiate Programming Contest)** of all kinds, **Psychology** especially in the field of **Cognitive Psychology**, exploring **essence of intelligence**
-- 🌱 I’m currently learning **Reinforcement Learning**, **Algorithms and Data Structures**, **Matlab**, **Python**
+- 🔭 I’m currently working on **Machine Learning**, **Psychology** especially in the field of **Cognitive Psychology**, exploring **essence of intelligence**
+- 🌱 I’m currently learning **Reinforcement Learning**, **Nueral Networks**, **Matlab**, **Python**
 - 🌱 I plan to learn **HPC(High Performance Computing)** and so forth
 - 👯 I’m looking to collaborate on **classic projects on AI**, **interesting interdisciplinary projects(AI+, HPC+, CS+, Psy+ ...)**
 - 🤔 I’m looking for help with **professionals in AI and math**
