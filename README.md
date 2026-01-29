@@ -10,7 +10,7 @@ This is BELL, currently a student of Sun Yat-sen University in China.
 - 💬 Ask me about **basic questions about C++**, **easy problems in algorithms and ds**, even **some Psychological problems**
 - 📫 How to reach me:
     1. personal mailbox 473280104@qq.com
-    2. work mailbox zhongqj7@stu.sysu.edu.cn
+    2. work mailbox zhongqj7@mail2.sysu.edu.cn
 - 😄 Pronouns:
     + glad to communicate
     + with curiosity and willing to learn new things
